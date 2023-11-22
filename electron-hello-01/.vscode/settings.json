@@ -3,7 +3,7 @@
     "VsCodeTaskButtons.tasks": [
         {
             "label": "$(notebook-execute) run",
-            "task": "start"
+            "task": "npm: start"
         }
     ]
 }
