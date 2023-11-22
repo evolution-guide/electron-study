@@ -1,0 +1,9 @@
+{
+    "VsCodeTaskButtons.showCounter": true,
+    "VsCodeTaskButtons.tasks": [
+        {
+            "label": "$(notebook-execute) run",
+            "task": "start"
+        }
+    ]
+}
